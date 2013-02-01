@@ -8,7 +8,7 @@
 
 development:
   adapter:mysql2
-  encoding: utf8
+  encoding:utf8
   database: editoraldb
   username: root
   password: WasserFeuer
