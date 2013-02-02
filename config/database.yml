@@ -1,5 +1,5 @@
 development:
-  adapter: mysql2
+  adapter: mysql
   encoding: utf8
   reconnect: false
   database: editoraldb
@@ -7,7 +7,7 @@ development:
   password: Wasser
 
 text:
-  adapter: mysql2
+  adapter: mysql
   encoding: utf8
   reconnect: false
   database: editoraldb
@@ -15,7 +15,7 @@ text:
   password: Wasser
 
 production:
-  adapter: mysql2
+  adapter: mysql
   encoding: utf8
   reconnect: false
   database: editoraldb

@@ -7,6 +7,7 @@ gem 'rails', '3.2.9'
 
 gem 'sqlite3'
 gem 'mysql2'
+gem 'mysql'
 
 group :production do
    gem 'therubyracer', :platforms => :ruby
